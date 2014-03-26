@@ -1,0 +1,5 @@
+Function Name: factorial
+Is Recursive : YES
+Variable     : x
+Function     : (x * factorial(x - 1))
+Valid Range  : [0 100]
